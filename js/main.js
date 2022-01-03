@@ -189,7 +189,7 @@ function startThird() {
  function startFifth() {
 
     for (let i = 0; i < 10; console.log(i), i++){}
-
+    alert('Все готово. Откройте консоль!')
  }
 
 /**
@@ -209,5 +209,6 @@ function startThird() {
         }
         console.log(str);
     }
+    alert('Все готово. Откройте консоль!')
 
  }
